@@ -1,5 +1,5 @@
 ---
-title: "Einführungsartikel"
+title: "The adventure begins"
 date: 2021-09-20
 ---
 
@@ -19,5 +19,9 @@ Beim Kurs «RIWM» [Records-, Informations- und Wissensmanagement] war es diesel
 Ein grosser Anspruch für mich diese Softwares noch besser kennen zu lernen ist die Aussicht auf meinen weiteren Arbeitsweg. Ich würde gerne aus den üblichen KMU’s «ausbrechen» und in einem Archiv, einer Bibliothek oder auch einem Museum arbeiten. Dies war für mich auch ein entscheidender Faktor, warum ich dieses Studium vor 3 Jahren begonnen habe. Deshalb verspreche ich mir von diesem Kurs auch einen weiteren Einblick in verschiedene Softwares und Taktiken zu lernen, wie man noch unbekannte Anwendungen besser verstehen kann.
 
 Ich bin also ein eher unbeschriebenes Blatt, dass sich für vieles interessiert aber manchmal den «Wald vor lauter Bäumen» nicht mehr sehen kann. Wie sich das für einen Sasquatch gehört ; )
+
+
+![bigfoot_comps](https://user-images.githubusercontent.com/90785896/134818587-c7941a58-084b-4238-8c2d-3bb2c5c74692.JPG)
+
 
 
