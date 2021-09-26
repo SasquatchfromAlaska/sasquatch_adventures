@@ -2,6 +2,9 @@
 title: How to survive in the wilderness of IT
 ---
 
-## Welcome, welcome, welcome
+## Welcome, welcome, welcome traveller
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Hier wird über die Erfahrungen eines Sasquatches geschrieben, der in der Wildernis von Alaska einen Laptop gefunden hat und nun seine Erfahrungen im KUrs. Ich schreibe hier über Kurs **Bibliotheks- und Archivinformatik** mitteilen möchte.
+
+- translated by woodl
+
