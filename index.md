@@ -8,3 +8,14 @@ Hier wird über die Erfahrungen eines Sasquatches geschrieben, der in der Wildni
 
 - translated by woodl
 
+Folgende Themen werden in diesem Blog abgedeckt werden:
+
+    Technische Grundlagen BAIN
+    Funktion und Aufbau von Bibliothekssystemen
+    Funktion und Aufbau von Archivsystemen
+    Repository-Software für Publikationen und Forschungsdaten
+    Metadaten modellieren und Schnittstellen nutzen
+    Suchmaschinen und Discovery-Systeme
+    Linked Data
+
+
